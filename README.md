@@ -9,7 +9,7 @@
 
 - 👋 Greetings!
 
-<p>I am Eliel, an enthusiastic student currently studying at Unijorge, aspiring to become a skilled programmer and developer. I am passionate about problem-solving and the world of technology. I am also a participant in the Innovation and Technology Center (NITE) at the same university.</p>
+<p>I am Eliel, an enthusiastic student currently studying at [Unijorge](https://www.unijorge.edu.br/#slide0), aspiring to become a skilled programmer and developer. I am passionate about problem-solving and the world of technology. I am also a participant in the Innovation and Technology Center [(NITE)](https://www.instagram.com/nite.uj/) at the same university.</p>
 <p>- 👀 I’m interested to gain knowledge in various areas of my professional field. Having a broad understanding, if I may say, opens doors to diverse types of applications and solutions.</p>
 
 ## Technologies
