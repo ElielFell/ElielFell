@@ -26,7 +26,7 @@ work with a variety of technologies, including:
 
 - **Databases**:
   
-  <img src="https://static-00.iconduck.com/assets.00/mysqlworkbench-icon-1024x1014-nnvsz83e.png" alt="MySQL Workbench" width="50" /> 
+  <img src="https://www.kreaweb.be/wp-content/uploads/2023/03/mysql.webp" alt="MySQL Workbench" width="50" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="50" /> 
 
 - **Web Design**:
