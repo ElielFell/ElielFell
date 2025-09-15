@@ -2,7 +2,7 @@
 <div align="center" >
   
   
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="pessoa_digitando"  width="200" height="150" style="margin-right: 10px;" >
+
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIxNTBzOXp1dXIwamZjeTFzbXQ0bjEydXhtajk5NHh0aW8xMTI3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VX7yEoXAFf8as/giphy.webp" alt="exemplo" width="200" height="150">
 </div>
