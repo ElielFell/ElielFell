@@ -34,34 +34,6 @@ work with a variety of technologies, including:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4hgAj2QByaNVhFdb3OYDtsidv54ynE0QOw&s" alt="Laravel" width="50" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" /> 
 
-<p>🌱I’m currently learning networking, and gain knowledge of :
-  
-## Server Security
-- Implement security patches
-- Configure firewalls
-- Use secure authentication methods
-
-## Server Architecture
-- Design and structure of servers
-- Roles of servers (e.g., web server, database server)
-
-## Network Configuration
-- Set up IP addresses and subnets
-- Configure routing
-
-## Server Monitoring
-- Track performance and availability
-- Use logging and intrusion detection systems
-
-## Server Hardening
-- Disable unnecessary services
-- Apply the principle of least privilege
-- Regularly update software
-
-## Network Segmentation
-- Divide network into segments
-- Protect critical servers
-  </p>
 
   ## 📫 Where you find me?:
   
