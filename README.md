@@ -1,45 +1,44 @@
-<h1 align = "center">Developer in ascension!</h1>
-<div align="center" >
-  
-  
+<h1 align="center"> Eliel F. </h1>
+<h3 align="center">Software Developer & IT Infrastructure Analyst</h3>
 
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIxNTBzOXp1dXIwamZjeTFzbXQ0bjEydXhtajk5NHh0aW8xMTI3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VX7yEoXAFf8as/giphy.webp" alt="exemplo" width="200" height="150">
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIxNTBzOXp1dXIwamZjeTFzbXQ0bjEydXhtajk5NHh0aW8xMTI3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VX7yEoXAFf8as/giphy.webp" alt="Coding GIF" width="200" height="150">
 </div>
 
-- 👋 Greetings!
+<p align="center">
+  <em>A dedicated Computer Engineering student and IT professional with hands-on experience in software development, server infrastructure, and technical support.</em>
+</p>
 
-<p>I am Eliel, an enthusiastic student currently studying at <a href="https://www.unijorge.edu.br/#slide0">Unijorge</a>, aspiring to become a skilled programmer and developer. I am passionate about problem-solving and the world of technology. I am also a participant in the Innovation and Technology Center <a href="https://www.instagram.com/nite.uj/">(NITE)</a> at the same university.</p>
-<p>- 👀 I’m interested to gain knowledge in various areas of my professional field. Having a broad understanding, if I may say, opens doors to diverse types of applications and solutions.</p>
+---
 
+## 👨‍💻 About Me
 
-## Technologies
+* 🎓 I am currently pursuing a **Bachelor's degree in Computer Engineering** at Unijorge, with an expected graduation in 2026.
+* 💼 I currently work as a **Support and Solutions Architecture Analyst**, where I handle advanced technical support, core server maintenance, and network troubleshooting.
+* 🔬 I already act as a **Scientific Researcher at Unijorge**, focusing on Datacenter management, energy efficiency, and infrastructure security.
+* 🎯 My profile is highly analytical, results-oriented, and committed to best practices in development and information security.
+* 🗣️ I speak Native Portuguese, Advanced English, and Basic Japanese.
 
-work with a variety of technologies, including:
+## 🛠️ Technologies & Tools
 
-- **Programming Languages**:
+### Programming Languages & Frameworks
+* **Languages:** Java, PHP, C, C#, Dart
+* **Frameworks:** Laravel, Spring Boot, Flutter, Bootstrap 5
 
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="Java" width="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="50" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1280px-C_Programming_Language.svg.png" alt="C" width="50" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" alt="PHP" width="50" /> 
+### Databases
+* MySQL, PostgreSQL
 
-- **Databases**:
-  
-  <img src="https://www.kreaweb.be/wp-content/uploads/2023/03/mysql.webp" alt="MySQL Workbench" width="50" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="50" /> 
+### Infrastructure & Operations
+* **OS & Servers:** Linux, Windows Server
+* **Networking & Security:** Firewall, DNS, TCP/IP Networks, Troubleshooting
+* **Tools:** Git/GitHub, SLA software.
 
-- **Web Design**:
-  
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt4hgAj2QByaNVhFdb3OYDtsidv54ynE0QOw&s" alt="Laravel" width="50" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap" width="50" /> 
+## 📜 Certifications
 
+* **Cisco Verified IT Essentials & Cyber Threat Management** - *Cisco Networking Academy* (2024/2025)
+* **Gerenciamento de Ameaças Cibernéticas** - *SENAC Bahia* (Sept. 2025)
+* **Arquitetura, Organização e Funcionamento de Computadores e SO** - *Unijorge* (Nov. 2024)
 
-  ## 📫 Where you find me?:
-  
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" style="border: 2px solid black;"/>](https://www.linkedin.com/in/eliel-felipe-86a8651b5/)
+## 📫 How to reach me
 
-<!---
-ElielFell/ElielFell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 💼 **LinkedIn:** [Eliel Felipe](https://www.linkedin.com/in/eliel-felipe-86a8651b5/)
