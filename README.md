@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <em>A dedicated Computer Engineering student and IT professional with hands-on experience in software development, server infrastructure, and technical support.</em>
+  <em>A  Computer Engineering IT professional with hands-on experience in software development, server infrastructure, and technical support.</em>
 </p>
 
 ---
