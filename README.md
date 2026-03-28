@@ -33,11 +33,6 @@
 * **Networking & Security:** Firewall, DNS, TCP/IP Networks, Troubleshooting
 * **Tools:** Git/GitHub, SLA software.
 
-## 📜 Certifications
-
-* **Cisco Verified IT Essentials & Cyber Threat Management** - *Cisco Networking Academy* (2024/2025)
-* **Gerenciamento de Ameaças Cibernéticas** - *SENAC Bahia* (Sept. 2025)
-* **Arquitetura, Organização e Funcionamento de Computadores e SO** - *Unijorge* (Nov. 2024)
 
 ## 📫 How to reach me
 
